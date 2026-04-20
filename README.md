@@ -2,14 +2,14 @@
 This is a simple Netflix Clone built using only HTML and CSS. It focuses on replicating the user
 interface of Netflix, including layout, design, and styling.
 
-# Features:
+# 🚀 Features:
 
 Responsive homepage design
 Netflix-style layout and UI
 Clean and modern styling
 Hover effects for better user experience
 
-# Tech Stack:
+# 💡 Tech Stack:
 
 HTML
 CSS
@@ -19,7 +19,7 @@ This project was created to improve frontend design skills and practice building
 website layouts using only HTML and CSS.
 
 
-## Screenshots
+## 📷 Screenshots
 
 <img width="922" height="656" alt="Screenshot 2026-04-20 193839" src="https://github.com/user-attachments/assets/ad1be92e-1bd5-4351-bef5-16d79b253f18" />
 
