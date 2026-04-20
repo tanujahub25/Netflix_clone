@@ -21,7 +21,7 @@ website layouts using only HTML and CSS.
 
 ## Screenshots
 
-<img width="922" height="656" alt="Screenshot 2026-04-20 193839" src="https://github.com/ user-attachments/assets/563d013e-4ab8-42cb-8f9c-f263f06d628c" />
+<img width="922" height="656" alt="Screenshot 2026-04-20 193839" src="https://github.com/user-attachments/assets/ad1be92e-1bd5-4351-bef5-16d79b253f18" />
 
   ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
@@ -34,5 +34,5 @@ Contributions are welcome! Please fork the repository and create a pull request.
 
 
 ## 📧 Contact
-Created by [Akshat Kumar Srivastava](https://github.com/tanujahub25) – feel free to connect!
+Created by [Tanuja Kumari](https://github.com/tanujahub25) – feel free to connect!
 
