@@ -21,8 +21,7 @@ website layouts using only HTML and CSS.
 
 ## Screenshots
 
-<img width="922" height="656" alt="Screenshot 2026-04-20 193839" src="https://github.com/
-  user-attachments/assets/563d013e-4ab8-42cb-8f9c-f263f06d628c" />
+<img width="922" height="656" alt="Screenshot 2026-04-20 193839" src="https://github.com/ user-attachments/assets/563d013e-4ab8-42cb-8f9c-f263f06d628c" />
 
   ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
